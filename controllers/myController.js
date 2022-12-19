@@ -55,7 +55,7 @@ async function main( messageObject ) {
   textMessage += messageObject.message;
   textMessage += "\t\n-------------\t\nEnd of Transmission.\t\n\t\n";
 
-  let htmlMessage = "<div><h1>Message from your Vast-Coast Porfolio website:</h1>";
+  let htmlMessage = "<div><h1>Message from your Powerful Thicket Porfolio website:</h1>";
   htmlMessage += "<p><strong>From: </strong>" + messageObject.full_name +"</p>";
   htmlMessage += "<p><strong>Email: </strong>" + messageObject.email + "</p>";
   htmlMessage += "<p></p><h2>Their Message:</h2><p>" + messageObject.message + "</p>";
