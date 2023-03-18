@@ -1,5 +1,15 @@
 [
     {
+        "title": "LightBurst 2.0",
+        "description": "The game consists of a square grid of lights. When the game starts, a random pattern of these lights is switched on. The goal of the puzzle is to switch all the lights off. Originally writen in Objective C, I converted the codebase to Flutter for cross platform compatibility including iOS and Android  ",
+        "images":["lightburst2.jpg"],
+        "live":"https://hidden-retreat-75008.herokuapp.com/#/",
+        "github":"https://github.com/b0rgbart3/box",
+        "features": [""],
+        "tech": ["Flutter", "Dart"],
+        "shields": ["flutter", "dart"]
+    },
+    {
         "title": "ImageShoppr",
         "description": "This React/Node.js app utilizes the AI image recognition capabilities of the GoogleVision API -- and makes shopping a fun, easy and social experience. With ImageShoppr you can connect with your friends and find out if they have purchased similar items.",
         "images": ["shoppr.jpg"],   
@@ -28,16 +38,6 @@
         "features": [""],
         "tech": ["React", "Redux"],
         "shields": ["react", "redux"]
-    },
-    {
-        "title": "LightBurst 2.0",
-        "description": "The game consists of a square grid of lights. When the game starts, a random pattern of these lights is switched on. The goal of the puzzle is to switch all the lights off. Originally writen in Objective C, I converted the codebase to Flutter for cross platform compatibility including iOS and Android  ",
-        "images":["lightburst2.jpg"],
-        "live":"https://hidden-retreat-75008.herokuapp.com/#/",
-        "github":"https://github.com/b0rgbart3/box",
-        "features": [""],
-        "tech": ["Flutter", "Dart"],
-        "shields": ["flutter", "dart"]
     },
     {
         "title": "LightBurst",
