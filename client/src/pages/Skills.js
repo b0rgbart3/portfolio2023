@@ -11,9 +11,27 @@ function Skills() {
     {
     "tech": "React",
     "shield": "react",
-    "duration": "2 years",
-    "projects": "ImageShoppr, My Google Bookshelf, SpaceForce"
+    "duration": "3 years",
+    "projects": "GridDynamics, ImageShoppr, My Google Bookshelf, SpaceForce"
     },
+    {
+      "tech": "Typescript",
+      "shield": "typescript",
+      "duration": "2 years",
+      "projects": "GridDynamics"
+      },
+      {
+        "tech": "MobX",
+        "shield": "mobx",
+        "duration": "1 year",
+        "projects": "GridDynamics"
+        },
+    {
+      "tech": "NextJS",
+      "shield": "nextjs",
+      "duration": "3 months",
+      "projects": "Stories: A Digital Diary"
+      },
     {
       "tech": "Redux",
       "shield": "redux",
@@ -23,7 +41,7 @@ function Skills() {
     {
       "tech": "Javascript",
       "shield": "js",
-      "duration": "15+ years",
+      "duration": "10+ years",
       "projects": "All"
       },
       {
@@ -107,13 +125,13 @@ function Skills() {
     {
         "tech": "HTML 5",
         "shield": "html",
-        "duration": "15+ years",
+        "duration": "10+ years",
         "projects": "All"  
     },
     {
         "tech": "CSS 3",
         "shield": "css",
-        "duration": "15+ years",
+        "duration": "10+ years",
         "projects": "All"   
     },
     {

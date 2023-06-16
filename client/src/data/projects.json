@@ -1,4 +1,14 @@
-[
+[  
+    {
+        "title": "Stories: A Digital Diary",
+        "description": "This React app uses the NextJS platform and allows you to post diary entries, and manage your diary posts.  It's a full CRUD application that uses a mySQL database.",
+        "images":["stories.jpg"],
+        "live":"https://sleepy-tundra-21178.herokuapp.com",
+        "github":"https://github.com/b0rgbart3/nextblog",
+        "features": [""],
+        "tech": ["React", "MySQL", "NextJS"],
+        "shields": ["react", "sql", "nextjs"]
+    },
     {
         "title": "LightBurst 2.0",
         "description": "The game consists of a square grid of lights. When the game starts, a random pattern of these lights is switched on. The goal of the puzzle is to switch all the lights off. Originally writen in Objective C, I converted the codebase to Flutter for cross platform compatibility including iOS and Android  ",
